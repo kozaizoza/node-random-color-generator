@@ -3,5 +3,5 @@
 Generate random colors on the command line
 
 ```bash
-TODO: add the output for the progress
+TODO: add the output for the program
 ```
